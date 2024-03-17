@@ -9,6 +9,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@babel/runtime-corejs3": "^7.24.0",
     "@react-spring/web": "^9.6.1",
     "@reduxjs/toolkit": "^1.9.1",
     "@taoyage/react-mobile-ui": "^1.7.5",
