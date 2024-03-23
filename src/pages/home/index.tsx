@@ -1,9 +1,8 @@
 import React from 'react';
 
-import { Swiper } from '@taoyage/react-mobile-ui';
+import { Swiper, ErrorBlock } from '@/bases';
 import Header from './components/header';
 import Loading from '@/components/loading';
-import ErrorBlock from '@/bases/error-block';
 
 import { useRequest } from '@/hooks/useRequest';
 
